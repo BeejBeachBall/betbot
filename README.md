@@ -1,1 +1,1 @@
-# betot
+# UFC BetBot
